@@ -62,10 +62,15 @@
 ## 📈 GitHub 統計
 
 <p align="left">
-  [![ryan940618's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan940618)](https://github.com/ryan940618/github-readme-stats)
+  <a href="https://github.com/ryan940618/github-readme-stats">
+    <img src="https://github-readme-stats-oni9.vercel.app/api?username=ryan940618" />
+  </a>
 </p>
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan940618&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryan940618/github-readme-stats">
+    <img src="https://github-readme-stats-oni9.vercel.app/api/top-langs/?username=ryan940618" />
+  </a>
 </p>
 
 ## 📫 聯絡我
