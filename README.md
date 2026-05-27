@@ -62,7 +62,7 @@
 ## 📈 GitHub 統計
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryan940618&show_icons=true&theme=radium&hide_border=true&include_all_commits=true" alt="Ryan's GitHub Stats" />
+  [![ryan940618's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan940618)](https://github.com/ryan940618/github-readme-stats)
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan940618&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
